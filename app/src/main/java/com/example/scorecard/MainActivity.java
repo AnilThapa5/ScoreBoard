@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void  buttonScore6(View view){
 
-        teamBScore=teamBScore+2;
+        teamBScore=teamBScore+5;
         displayScoreForTeamB(teamBScore);
     }
 
